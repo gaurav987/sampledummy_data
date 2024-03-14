@@ -1,0 +1,83 @@
+item_id,item_name,item_type,brand,brand_code,bottles_per_case,alcohol_percent,bottle_volume,item_status,case_volume,unit_of_measure,case_width,case_height,case_length,net_price
+100001,Johnnie Walker ,congnac,Diageo,31021,14,41.35,1750,Active,24500,ML,19.87,30.59,40.69,38.21
+100002,Guinness ,whisky,Diageo,31022,14,43.23,750,Active,10500,ML,16.44,17.73,40.72,56.53
+100003,Smirnoff ,whisky,Diageo,31023,1,56.13,1000,Active,1000,ML,13.27,10.34,33.7,41.41
+100004,Tanqueray ,wine,Diageo,31024,13,46.65,1000,Active,13000,ML,16.48,29.39,48.56,73.15
+100005,Jameson ,vodka,Ricard,31025,2,43.56,1000,Active,2000,ML,13.35,33.95,31.1,90.93
+100006,Absolut Vodka ,gin,Ricard,31026,8,57.5,750,Active,6000,ML,15.03,37.29,32.76,75.05
+100007,Chivas Regal ,congnac,Ricard,31027,3,49.78,750,Active,2250,ML,16.87,33.26,38.4,67.68
+100032,Larceny ,liqueur,Heaven,31052,8,34.63,750,Active,6000,ML,17.44,16.64,45.64,67.69
+100033,Jose Cuervo ,rum,Jose,31053,18,45.87,1750,Active,31500,ML,17.2,17.97,33.67,51.13
+100034,1800 Tequila ,whisky,Jose,31054,10,37.45,375,Active,3750,ML,17.12,12.73,43.34,63.14
+100035,Rebel Yell ,tequila,Luxco,31055,15,41.98,700,Active,10500,ML,18.23,21.83,24.8,40.37
+100036,Ezra Brooks ,congnac,Luxco,31056,21,50.23,750,Active,15750,ML,5.6,13.73,17.97,63.8
+100037,Pearl Vodka ,gin,Luxco,31057,11,38.65,700,Active,7700,ML,8.51,26.11,17.18,64.69
+100038,Remy Martin ,gin,Remy,31058,23,40.69,375,Active,8625,ML,10.16,35.13,43.48,57.72
+100039,Cointreau ,congnac,Remy,31059,2,41.61,1750,Active,3500,ML,19.87,22.9,33.18,81.47
+100040,Wild Turkey ,liqueur,Campari,31060,17,46.77,700,Active,11900,ML,6.72,15.65,20.19,57.82
+100041,Russell's Reserve ,wine,Campari,31061,5,59.5,1750,Active,8750,ML,9.6,27.44,44.23,94.07
+100042,Grand Marnier ,gin,Campari,31062,13,53.72,1000,Active,13000,ML,9.89,35.36,25.42,89.67
+100043,Tito's Handmade Vodka ,liqueur,Tito,31063,16,38.19,1750,Active,28000,ML,12.31,35.17,24.22,39.91
+100044,Patron Tequila ,whisky,Patron,31064,3,52.64,1750,Active,5250,ML,6.71,36.48,47.61,41
+100045,Old Forester ,gin,Brown,31065,17,41.23,750,Active,12750,ML,7.14,25.38,37.23,78.82
+100046,Jägermeister ,congnac,Mast,31066,9,42.53,1750,Active,15750,ML,10.9,34.41,28.39,51.7
+100047,Amarula ,vodka,Distell,31067,7,46.57,1000,Active,7000,ML,5.75,32.15,47.12,97.28
+100048,Buffalo Trace ,gin,Sazerac,31068,14,30.9,700,Active,9800,ML,12.42,12.18,47.03,73.71
+100049,Louis XIII ,vodka,Remy,31069,4,30.07,700,Active,2800,ML,19.42,39.2,46.18,48.21
+100050,Don Julio ,gin,Don,31070,16,40.02,1750,Active,28000,ML,8.88,13.89,39.61,35.7
+100051,Angostura ,beer,Angostura,31071,16,59.45,1750,Active,28000,ML,7.5,11.3,47.8,70.12
+100052,Parker's Heritage Collection ,tequila,Hill,31072,5,39.77,1000,Active,5000,ML,5.93,22.16,49.26,94.39
+100053,1800 Tequila ,gin,Proximo,31073,16,58.23,375,Active,6000,ML,15.23,21.69,31.99,54.82
+100054,The Macallan Sherry Oak ,rum,Macallan,31074,12,30.04,700,Active,8400,ML,19.1,26.21,29.71,83.34
+100055,Bunnahabhain ,tequila,Distell,31075,5,31.21,750,Active,3750,ML,17.98,24.59,18.91,97.1
+100056,Bushmills ,whisky,Bushmills,31076,23,51.92,1000,Active,23000,ML,6.91,39.35,18.81,62.37
+100057,Michter's ,whisky,Michter,31077,5,51.2,700,Active,3500,ML,16.25,28.6,41.86,44.64
+100058,WhistlePig ,rum,WhistlePig,31078,24,35.06,375,Active,9000,ML,16.25,27.01,48.98,87.36
+100059,Four Roses ,rum,Roses,31079,22,49.86,1000,Active,22000,ML,10.79,37.67,37.57,62.43
+100060,Black Velvet ,beer,Black,31080,17,45.62,750,Active,12750,ML,17.71,18.08,47.96,75.96
+100061,Templeton Rye ,wine,Templeton,31081,2,36.11,700,Active,1400,ML,11.36,14.53,25.74,61.75
+100062,Laphroaig ,liqueur,Laphroaig,31082,12,33.29,1000,Active,12000,ML,18.01,19.28,36.4,83.88
+100063,Glenlivet ,gin,Glenlivet,31083,9,34.25,700,Active,6300,ML,17.54,17.27,43.47,79.59
+100016,Maker's Mark ,liqueur,Suntory,31036,3,36.86,750,Active,2250,ML,12.73,30.37,31.22,50.6
+100017,Suntory Whisky ,wine,Suntory,31037,2,40.82,1000,Active,2000,ML,18.06,14.13,24.48,87.45
+100018,Campari ,whisky,Campari,31038,22,50.39,750,Active,16500,ML,5.61,16.69,39.62,64.1
+100019,Aperol ,wine,Campari,31039,3,55.24,375,Active,1125,ML,12.42,20.5,25.29,76.39
+100020,Skyy Vodka ,tequila,Campari,31040,23,55.44,750,Active,17250,ML,8.12,28.87,43.52,53.17
+100021,The Macallan ,beer,Edrington,31041,6,37.75,1750,Active,10500,ML,8.98,33.97,37.35,64.15
+100022,Highland Park ,gin,Edrington,31042,13,45.02,750,Active,9750,ML,8.6,24.43,23.62,64.72
+100023,Famous Grouse ,vodka,Edrington,31043,24,52.84,750,Active,18000,ML,19.32,28.42,24.25,44.58
+100024,Glenfiddich ,gin,William,31044,4,38.33,375,Active,1500,ML,12.75,21.44,45.94,60.73
+100025,Grant's ,wine,William,31045,12,48.09,1750,Active,21000,ML,17.26,14.51,20.92,70.67
+100026,Hendrick's Gin ,tequila,William,31046,4,57.13,375,Active,1500,ML,7.77,13.98,35.56,37.97
+100027,Corona ,vodka,Constellation,31047,13,36.19,375,Active,4875,ML,14.49,22.13,36.97,84.77
+100028,Modelo ,rum,Constellation,31048,9,57.59,1750,Active,15750,ML,11.92,24.9,48.5,88.81
+100029,Robert Mondavi ,vodka,Constellation,31049,1,50.78,1750,Active,1750,ML,12.37,32.78,27.51,63.83
+100030,Evan Williams ,gin,Heaven,31050,9,58.27,1750,Active,15750,ML,5.04,27.08,26.82,64.31
+100031,Elijah Craig ,tequila,Heaven,31051,15,39.36,375,Active,5625,ML,11.35,20.58,23.34,62.65
+100008,Beefeater ,whisky,Ricard,31028,20,46.8,700,Active,14000,ML,9.05,33.83,39.12,36.45
+100009,Bacardi Superior ,beer,Bacardi,31029,5,37.06,750,Active,3750,ML,7.95,23.15,39.44,40.71
+100010,Grey Goose ,liqueur,Bacardi,31030,10,37.86,700,Active,7000,ML,13.94,39.14,29.65,52.36
+100011,Dewar's ,vodka,Bacardi,31031,22,59.25,700,Active,15400,ML,19.76,25.01,39.27,43.77
+100012,Jack Daniel's ,wine,Forman,31032,9,32.52,1750,Active,15750,ML,11.67,21.88,28.42,45.02
+100013,Woodford Reserve ,beer,Forman,31033,10,51.83,1000,Active,10000,ML,14.05,13.8,39.8,78.98
+100014,Finlandia ,tequila,Forman,31034,15,55.32,1750,Active,26250,ML,8.56,15.11,29.89,39.75
+100015,Jim Beam ,congnac,Suntory,31035,5,39.83,375,Active,1875,ML,16.76,19.11,30.73,57.32
+100064,Boodles Gin ,rum,Boodles,31084,20,48.3,700,Active,14000,ML,11.52,23.32,32.11,89.45
+100065,Aviation Gin ,vodka,Aviation,31085,9,57.39,375,Active,3375,ML,16.95,12.23,20.18,73.47
+100066,Bombay Sapphire ,liqueur,Bombay,31086,14,52.16,750,Active,10500,ML,5.76,23.11,39.97,86.45
+100067,Hendrick's Gin ,tequila,Hendrick,31087,9,52.18,1750,Active,15750,ML,14.71,31.4,24.23,59.72
+100068,Plymouth Gin ,whisky,Plymouth,31088,20,40.1,700,Active,14000,ML,9.12,27.39,26.51,49.64
+100069,Tanqueray ,gin,Tanqueray,31089,2,32.18,700,Active,1400,ML,5.93,11.82,48.44,65.77
+100070,Broker's Gin ,whisky,Broker,31090,6,55.22,700,Active,4200,ML,10.27,17.9,25.19,72.14
+100071,Beefeater ,rum,Beefeater,31091,7,43.99,1750,Active,12250,ML,15.07,35.81,23.09,38.21
+100072,Greenall's ,congnac,Greenall,31092,1,43.24,750,Active,750,ML,14.3,29.66,16.75,94.77
+100073,Seagram's Gin ,vodka,Seagram,31093,17,38.43,700,Active,11900,ML,7.2,35.6,26.19,69.36
+100074,Gordon's Gin ,liqueur,Gordon,31094,7,55.86,375,Active,2625,ML,9.81,26.16,41.56,48.09
+100075,Nolet's Gin ,congnac,Nolet,31095,15,41.41,375,Active,5625,ML,11.94,11.49,24.42,55
+100076,Sipsmith Gin ,congnac,Sipsmith,31096,9,32.32,700,Active,6300,ML,6.47,26.03,18.21,74.47
+100077,Stolichnaya ,wine,Stolichnaya,31097,10,35.5,1000,Active,10000,ML,9.28,15.29,33.08,41.4
+100078,Belvedere ,liqueur,Belvedere,31098,9,48.11,375,Active,3375,ML,8.56,36.96,19.38,46.88
+100079,Grey Goose ,liqueur,Grey,31099,19,49.72,750,Active,14250,ML,6.61,23.84,36.17,36.45
+100080,Ketel One ,rum,Ketel,31100,20,33.35,750,Active,15000,ML,10.63,23.36,29.17,72.99
+100081,Ciroc spy,rum,Ciroc,31101,23,57.88,1000,Active,23000,ML,12.01,33.24,28.95,83.29
+100082,Wynor anejo,vodka,Wynor,31102,3,50.36,1000,Active,3000,ML,18.62,28.17,41.23,42.97

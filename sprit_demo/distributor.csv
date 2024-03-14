@@ -1,0 +1,142 @@
+distributor_id,name,email,phone,country,state,city,street_name,zipcode,latitude,longitude,suppliers
+DIST00001,James Bowers,james.bowers.distributor@gmail.com,8167066256,United States,California,Los Angeles,364 Pine willow,23045,34.0512791,-118.4116149,SUP00001
+DIST00001,James Bowers,james.bowers.distributor@gmail.com,8167066256,United States,California,Los Angeles,364 Pine willow,23045,34.0512791,-118.4116149,SUP00002
+DIST00001,James Bowers,james.bowers.distributor@gmail.com,8167066256,United States,California,Los Angeles,364 Pine willow,23045,34.0512791,-118.4116149,SUP00003
+DIST00001,James Bowers,james.bowers.distributor@gmail.com,8167066256,United States,California,Los Angeles,364 Pine willow,23045,34.0512791,-118.4116149,SUP00004
+DIST00001,James Bowers,james.bowers.distributor@gmail.com,8167066256,United States,California,Los Angeles,364 Pine willow,23045,34.0512791,-118.4116149,SUP00005
+DIST00002,Diana Harris,diana.harris.distributor@gmail.com,5970035737,United States,Florida,Miami,874 Sycamore campe,16074,55.00019,-97.00049,SUP00006
+DIST00002,Diana Harris,diana.harris.distributor@gmail.com,5970035737,United States,Florida,Miami,874 Sycamore campe,16074,55.00019,-97.00049,SUP00007
+DIST00002,Diana Harris,diana.harris.distributor@gmail.com,5970035737,United States,Florida,Miami,874 Sycamore campe,16074,55.00019,-97.00049,SUP00008
+DIST00002,Diana Harris,diana.harris.distributor@gmail.com,5970035737,United States,Florida,Miami,874 Sycamore campe,16074,55.00019,-97.00049,SUP00009
+DIST00002,Diana Harris,diana.harris.distributor@gmail.com,5970035737,United States,Florida,Miami,874 Sycamore campe,16074,55.00019,-97.00049,SUP00010
+DIST00002,Diana Harris,diana.harris.distributor@gmail.com,5970035737,United States,Florida,Miami,874 Sycamore campe,16074,55.00019,-97.00049,SUP00011
+DIST00002,Diana Harris,diana.harris.distributor@gmail.com,5970035737,United States,Florida,Miami,874 Sycamore campe,16074,55.00019,-97.00049,SUP00012
+DIST00002,Diana Harris,diana.harris.distributor@gmail.com,5970035737,United States,Florida,Miami,874 Sycamore campe,16074,55.00019,-97.00049,SUP00013
+DIST00002,Diana Harris,diana.harris.distributor@gmail.com,5970035737,United States,Florida,Miami,874 Sycamore campe,16074,55.00019,-97.00049,SUP00014
+DIST00002,Diana Harris,diana.harris.distributor@gmail.com,5970035737,United States,Florida,Miami,874 Sycamore campe,16074,55.00019,-97.00049,SUP00015
+DIST00006,Cathy Melendez,cathy.melendez.distributor@gmail.com,5519383614,United States,California,Los Angeles,375 Alder st,66471,48.5022771,-2.737467,SUP00032
+DIST00006,Cathy Melendez,cathy.melendez.distributor@gmail.com,5519383614,United States,California,Los Angeles,375 Alder st,66471,48.5022771,-2.737467,SUP00033
+DIST00006,Cathy Melendez,cathy.melendez.distributor@gmail.com,5519383614,United States,California,Los Angeles,375 Alder st,66471,48.5022771,-2.737467,SUP00034
+DIST00006,Cathy Melendez,cathy.melendez.distributor@gmail.com,5519383614,United States,California,Los Angeles,375 Alder st,66471,48.5022771,-2.737467,SUP00035
+DIST00007,Kimberly Love,kimberly.love.distributor@gmail.com,7027697325,United States,Tennessee,Memphis,472 Elm Main,91022,35.6777691,139.7646365,SUP00036
+DIST00007,Kimberly Love,kimberly.love.distributor@gmail.com,7027697325,United States,Tennessee,Memphis,472 Elm Main,91022,35.6777691,139.7646365,SUP00037
+DIST00007,Kimberly Love,kimberly.love.distributor@gmail.com,7027697325,United States,Tennessee,Memphis,472 Elm Main,91022,35.6777691,139.7646365,SUP00038
+DIST00007,Kimberly Love,kimberly.love.distributor@gmail.com,7027697325,United States,Tennessee,Memphis,472 Elm Main,91022,35.6777691,139.7646365,SUP00039
+DIST00007,Kimberly Love,kimberly.love.distributor@gmail.com,7027697325,United States,Tennessee,Memphis,472 Elm Main,91022,35.6777691,139.7646365,SUP00040
+DIST00007,Kimberly Love,kimberly.love.distributor@gmail.com,7027697325,United States,Tennessee,Memphis,472 Elm Main,91022,35.6777691,139.7646365,SUP00041
+DIST00007,Kimberly Love,kimberly.love.distributor@gmail.com,7027697325,United States,Tennessee,Memphis,472 Elm Main,91022,35.6777691,139.7646365,SUP00042
+DIST00007,Kimberly Love,kimberly.love.distributor@gmail.com,7027697325,United States,Tennessee,Memphis,472 Elm Main,91022,35.6777691,139.7646365,SUP00043
+DIST00007,Kimberly Love,kimberly.love.distributor@gmail.com,7027697325,United States,Tennessee,Memphis,472 Elm Main,91022,35.6777691,139.7646365,SUP00044
+DIST00008,Rachael Spencer,rachael.spencer.distributor@gmail.com,7010282645,United States,Arizona,Phoenix,778 Cedar st,96036,39.9057136,116.3912972,SUP00045
+DIST00008,Rachael Spencer,rachael.spencer.distributor@gmail.com,7010282645,United States,Arizona,Phoenix,778 Cedar st,96036,39.9057136,116.3912972,SUP00046
+DIST00008,Rachael Spencer,rachael.spencer.distributor@gmail.com,7010282645,United States,Arizona,Phoenix,778 Cedar st,96036,39.9057136,116.3912972,SUP00047
+DIST00008,Rachael Spencer,rachael.spencer.distributor@gmail.com,7010282645,United States,Arizona,Phoenix,778 Cedar st,96036,39.9057136,116.3912972,SUP00048
+DIST00008,Rachael Spencer,rachael.spencer.distributor@gmail.com,7010282645,United States,Arizona,Phoenix,778 Cedar st,96036,39.9057136,116.3912972,SUP00049
+DIST00008,Rachael Spencer,rachael.spencer.distributor@gmail.com,7010282645,United States,Arizona,Phoenix,778 Cedar st,96036,39.9057136,116.3912972,SUP00050
+DIST00009,Heather Hernandez,heather.hernandez.distributor@gmail.com,5384207717,United States,North Carolina,Raleigh,544 Cottonwood Dogwood,47899,-18.8757627,-41.9547086,SUP00051
+DIST00009,Heather Hernandez,heather.hernandez.distributor@gmail.com,5384207717,United States,North Carolina,Raleigh,544 Cottonwood Dogwood,47899,-18.8757627,-41.9547086,SUP00052
+DIST00009,Heather Hernandez,heather.hernandez.distributor@gmail.com,5384207717,United States,North Carolina,Raleigh,544 Cottonwood Dogwood,47899,-18.8757627,-41.9547086,SUP00053
+DIST00009,Heather Hernandez,heather.hernandez.distributor@gmail.com,5384207717,United States,North Carolina,Raleigh,544 Cottonwood Dogwood,47899,-18.8757627,-41.9547086,SUP00054
+DIST00009,Heather Hernandez,heather.hernandez.distributor@gmail.com,5384207717,United States,North Carolina,Raleigh,544 Cottonwood Dogwood,47899,-18.8757627,-41.9547086,SUP00055
+DIST00009,Heather Hernandez,heather.hernandez.distributor@gmail.com,5384207717,United States,North Carolina,Raleigh,544 Cottonwood Dogwood,47899,-18.8757627,-41.9547086,SUP00056
+DIST00010,Roger Hughes,roger.hughes.distributor@gmail.com,9799126334,United States,Pennsylvania,Erie,653 Lien Mulberry,20820,29.699183,-95.274256,SUP00057
+DIST00010,Roger Hughes,roger.hughes.distributor@gmail.com,9799126334,United States,Pennsylvania,Erie,653 Lien Mulberry,20820,29.699183,-95.274256,SUP00058
+DIST00010,Roger Hughes,roger.hughes.distributor@gmail.com,9799126334,United States,Pennsylvania,Erie,653 Lien Mulberry,20820,29.699183,-95.274256,SUP00059
+DIST00010,Roger Hughes,roger.hughes.distributor@gmail.com,9799126334,United States,Pennsylvania,Erie,653 Lien Mulberry,20820,29.699183,-95.274256,SUP00060
+DIST00010,Roger Hughes,roger.hughes.distributor@gmail.com,9799126334,United States,Pennsylvania,Erie,653 Lien Mulberry,20820,29.699183,-95.274256,SUP00061
+DIST00010,Roger Hughes,roger.hughes.distributor@gmail.com,9799126334,United States,Pennsylvania,Erie,653 Lien Mulberry,20820,29.699183,-95.274256,SUP00062
+DIST00010,Roger Hughes,roger.hughes.distributor@gmail.com,9799126334,United States,Pennsylvania,Erie,653 Lien Mulberry,20820,29.699183,-95.274256,SUP00063
+DIST00003,Mrs. Kathleen Rhodes,mrs..kathleen.distributor@gmail.com,4133172631,United States,Virginia,Norflok,336 Yew st,43944,51.5073359,-0.12765,SUP00016
+DIST00003,Mrs. Kathleen Rhodes,mrs..kathleen.distributor@gmail.com,4133172631,United States,Virginia,Norflok,336 Yew st,43944,51.5073359,-0.12765,SUP00017
+DIST00003,Mrs. Kathleen Rhodes,mrs..kathleen.distributor@gmail.com,4133172631,United States,Virginia,Norflok,336 Yew st,43944,51.5073359,-0.12765,SUP00018
+DIST00003,Mrs. Kathleen Rhodes,mrs..kathleen.distributor@gmail.com,4133172631,United States,Virginia,Norflok,336 Yew st,43944,51.5073359,-0.12765,SUP00019
+DIST00003,Mrs. Kathleen Rhodes,mrs..kathleen.distributor@gmail.com,4133172631,United States,Virginia,Norflok,336 Yew st,43944,51.5073359,-0.12765,SUP00020
+DIST00004,Richard Thomas,richard.thomas.distributor@gmail.com,2753276800,United States,Texas,Austin,583 Lien Main,75952,-38.3592234,144.2010858,SUP00021
+DIST00004,Richard Thomas,richard.thomas.distributor@gmail.com,2753276800,United States,Texas,Austin,583 Lien Main,75952,-38.3592234,144.2010858,SUP00022
+DIST00004,Richard Thomas,richard.thomas.distributor@gmail.com,2753276800,United States,Texas,Austin,583 Lien Main,75952,-38.3592234,144.2010858,SUP00023
+DIST00005,Frank Gilmore,frank.gilmore.distributor@gmail.com,7872916808,United States,Michigan,Detroit,399 Pecan campe,99242,51.21895,6.76339,SUP00024
+DIST00005,Frank Gilmore,frank.gilmore.distributor@gmail.com,7872916808,United States,Michigan,Detroit,399 Pecan campe,99242,51.21895,6.76339,SUP00025
+DIST00005,Frank Gilmore,frank.gilmore.distributor@gmail.com,7872916808,United States,Michigan,Detroit,399 Pecan campe,99242,51.21895,6.76339,SUP00026
+DIST00005,Frank Gilmore,frank.gilmore.distributor@gmail.com,7872916808,United States,Michigan,Detroit,399 Pecan campe,99242,51.21895,6.76339,SUP00027
+DIST00005,Frank Gilmore,frank.gilmore.distributor@gmail.com,7872916808,United States,Michigan,Detroit,399 Pecan campe,99242,51.21895,6.76339,SUP00028
+DIST00005,Frank Gilmore,frank.gilmore.distributor@gmail.com,7872916808,United States,Michigan,Detroit,399 Pecan campe,99242,51.21895,6.76339,SUP00029
+DIST00005,Frank Gilmore,frank.gilmore.distributor@gmail.com,7872916808,United States,Michigan,Detroit,399 Pecan campe,99242,51.21895,6.76339,SUP00030
+DIST00005,Frank Gilmore,frank.gilmore.distributor@gmail.com,7872916808,United States,Michigan,Detroit,399 Pecan campe,99242,51.21895,6.76339,SUP00031
+DIST00019,Robert Cross,robert.cross.distributor@gmail.com,7638718024,United States,Ohio,Columbus,736 Vine Yew,61443,30.0443879,31.2357257,SUP00128
+DIST00019,Robert Cross,robert.cross.distributor@gmail.com,7638718024,United States,Ohio,Columbus,736 Vine Yew,61443,30.0443879,31.2357257,SUP00129
+DIST00019,Robert Cross,robert.cross.distributor@gmail.com,7638718024,United States,Ohio,Columbus,736 Vine Yew,61443,30.0443879,31.2357257,SUP00130
+DIST00019,Robert Cross,robert.cross.distributor@gmail.com,7638718024,United States,Ohio,Columbus,736 Vine Yew,61443,30.0443879,31.2357257,SUP00131
+DIST00019,Robert Cross,robert.cross.distributor@gmail.com,7638718024,United States,Ohio,Columbus,736 Vine Yew,61443,30.0443879,31.2357257,SUP00132
+DIST00019,Robert Cross,robert.cross.distributor@gmail.com,7638718024,United States,Ohio,Columbus,736 Vine Yew,61443,30.0443879,31.2357257,SUP00133
+DIST00019,Robert Cross,robert.cross.distributor@gmail.com,7638718024,United States,Ohio,Columbus,736 Vine Yew,61443,30.0443879,31.2357257,SUP00134
+DIST00019,Robert Cross,robert.cross.distributor@gmail.com,7638718024,United States,Ohio,Columbus,736 Vine Yew,61443,30.0443879,31.2357257,SUP00135
+DIST00020,Meredith Weiss,meredith.weiss.distributor@gmail.com,1159176430,United States,Washington,Seattle,816 Cypress Yew,28727,37.5545547,126.9707793,SUP00136
+DIST00020,Meredith Weiss,meredith.weiss.distributor@gmail.com,1159176430,United States,Washington,Seattle,816 Cypress Yew,28727,37.5545547,126.9707793,SUP00137
+DIST00020,Meredith Weiss,meredith.weiss.distributor@gmail.com,1159176430,United States,Washington,Seattle,816 Cypress Yew,28727,37.5545547,126.9707793,SUP00138
+DIST00020,Meredith Weiss,meredith.weiss.distributor@gmail.com,1159176430,United States,Washington,Seattle,816 Cypress Yew,28727,37.5545547,126.9707793,SUP00139
+DIST00020,Meredith Weiss,meredith.weiss.distributor@gmail.com,1159176430,United States,Washington,Seattle,816 Cypress Yew,28727,37.5545547,126.9707793,SUP00140
+DIST00020,Meredith Weiss,meredith.weiss.distributor@gmail.com,1159176430,United States,Washington,Seattle,816 Cypress Yew,28727,37.5545547,126.9707793,SUP00141
+DIST00011,Christian Nolan,christian.nolan.distributor@gmail.com,2307744326,United States,Virginia,Richmond,766 Maple willow,53264,-34.035326,18.7532934,SUP00064
+DIST00011,Christian Nolan,christian.nolan.distributor@gmail.com,2307744326,United States,Virginia,Richmond,766 Maple willow,53264,-34.035326,18.7532934,SUP00065
+DIST00011,Christian Nolan,christian.nolan.distributor@gmail.com,2307744326,United States,Virginia,Richmond,766 Maple willow,53264,-34.035326,18.7532934,SUP00066
+DIST00011,Christian Nolan,christian.nolan.distributor@gmail.com,2307744326,United States,Virginia,Richmond,766 Maple willow,53264,-34.035326,18.7532934,SUP00067
+DIST00011,Christian Nolan,christian.nolan.distributor@gmail.com,2307744326,United States,Virginia,Richmond,766 Maple willow,53264,-34.035326,18.7532934,SUP00068
+DIST00011,Christian Nolan,christian.nolan.distributor@gmail.com,2307744326,United States,Virginia,Richmond,766 Maple willow,53264,-34.035326,18.7532934,SUP00069
+DIST00011,Christian Nolan,christian.nolan.distributor@gmail.com,2307744326,United States,Virginia,Richmond,766 Maple willow,53264,-34.035326,18.7532934,SUP00070
+DIST00011,Christian Nolan,christian.nolan.distributor@gmail.com,2307744326,United States,Virginia,Richmond,766 Maple willow,53264,-34.035326,18.7532934,SUP00071
+DIST00011,Christian Nolan,christian.nolan.distributor@gmail.com,2307744326,United States,Virginia,Richmond,766 Maple willow,53264,-34.035326,18.7532934,SUP00072
+DIST00012,Candace Franco,candace.franco.distributor@gmail.com,6818178513,United States,Illinois,Chicago,515 Spruce st,15055,19.5102777,-99.0901112,SUP00073
+DIST00012,Candace Franco,candace.franco.distributor@gmail.com,6818178513,United States,Illinois,Chicago,515 Spruce st,15055,19.5102777,-99.0901112,SUP00074
+DIST00012,Candace Franco,candace.franco.distributor@gmail.com,6818178513,United States,Illinois,Chicago,515 Spruce st,15055,19.5102777,-99.0901112,SUP00075
+DIST00012,Candace Franco,candace.franco.distributor@gmail.com,6818178513,United States,Illinois,Chicago,515 Spruce st,15055,19.5102777,-99.0901112,SUP00076
+DIST00012,Candace Franco,candace.franco.distributor@gmail.com,6818178513,United States,Illinois,Chicago,515 Spruce st,15055,19.5102777,-99.0901112,SUP00077
+DIST00012,Candace Franco,candace.franco.distributor@gmail.com,6818178513,United States,Illinois,Chicago,515 Spruce st,15055,19.5102777,-99.0901112,SUP00078
+DIST00012,Candace Franco,candace.franco.distributor@gmail.com,6818178513,United States,Illinois,Chicago,515 Spruce st,15055,19.5102777,-99.0901112,SUP00079
+DIST00012,Candace Franco,candace.franco.distributor@gmail.com,6818178513,United States,Illinois,Chicago,515 Spruce st,15055,19.5102777,-99.0901112,SUP00080
+DIST00012,Candace Franco,candace.franco.distributor@gmail.com,6818178513,United States,Illinois,Chicago,515 Spruce st,15055,19.5102777,-99.0901112,SUP00081
+DIST00012,Candace Franco,candace.franco.distributor@gmail.com,6818178513,United States,Illinois,Chicago,515 Spruce st,15055,19.5102777,-99.0901112,SUP00082
+DIST00013,Bryan Soto,bryan.soto.distributor@gmail.com,5195877298,United States,Florida,Tampa,565 Magnolia Elm,50796,45.4378415,9.1669863,SUP00083
+DIST00013,Bryan Soto,bryan.soto.distributor@gmail.com,5195877298,United States,Florida,Tampa,565 Magnolia Elm,50796,45.4378415,9.1669863,SUP00084
+DIST00013,Bryan Soto,bryan.soto.distributor@gmail.com,5195877298,United States,Florida,Tampa,565 Magnolia Elm,50796,45.4378415,9.1669863,SUP00085
+DIST00013,Bryan Soto,bryan.soto.distributor@gmail.com,5195877298,United States,Florida,Tampa,565 Magnolia Elm,50796,45.4378415,9.1669863,SUP00086
+DIST00014,Laura Russell,laura.russell.distributor@gmail.com,8115139582,United States,Massachusetts,Lowell,720 Birch campe,2334,39.164236,-0.2448832,SUP00087
+DIST00014,Laura Russell,laura.russell.distributor@gmail.com,8115139582,United States,Massachusetts,Lowell,720 Birch campe,2334,39.164236,-0.2448832,SUP00088
+DIST00014,Laura Russell,laura.russell.distributor@gmail.com,8115139582,United States,Massachusetts,Lowell,720 Birch campe,2334,39.164236,-0.2448832,SUP00089
+DIST00014,Laura Russell,laura.russell.distributor@gmail.com,8115139582,United States,Massachusetts,Lowell,720 Birch campe,2334,39.164236,-0.2448832,SUP00090
+DIST00014,Laura Russell,laura.russell.distributor@gmail.com,8115139582,United States,Massachusetts,Lowell,720 Birch campe,2334,39.164236,-0.2448832,SUP00091
+DIST00014,Laura Russell,laura.russell.distributor@gmail.com,8115139582,United States,Massachusetts,Lowell,720 Birch campe,2334,39.164236,-0.2448832,SUP00092
+DIST00014,Laura Russell,laura.russell.distributor@gmail.com,8115139582,United States,Massachusetts,Lowell,720 Birch campe,2334,39.164236,-0.2448832,SUP00093
+DIST00014,Laura Russell,laura.russell.distributor@gmail.com,8115139582,United States,Massachusetts,Lowell,720 Birch campe,2334,39.164236,-0.2448832,SUP00094
+DIST00014,Laura Russell,laura.russell.distributor@gmail.com,8115139582,United States,Massachusetts,Lowell,720 Birch campe,2334,39.164236,-0.2448832,SUP00095
+DIST00015,Caroline Harris,caroline.harris.distributor@gmail.com,4528148399,United States,Washington,Olympia,735 Willow Dogwood,84924,55.7504461,37.6174943,SUP00096
+DIST00015,Caroline Harris,caroline.harris.distributor@gmail.com,4528148399,United States,Washington,Olympia,735 Willow Dogwood,84924,55.7504461,37.6174943,SUP00097
+DIST00015,Caroline Harris,caroline.harris.distributor@gmail.com,4528148399,United States,Washington,Olympia,735 Willow Dogwood,84924,55.7504461,37.6174943,SUP00098
+DIST00015,Caroline Harris,caroline.harris.distributor@gmail.com,4528148399,United States,Washington,Olympia,735 Willow Dogwood,84924,55.7504461,37.6174943,SUP00099
+DIST00015,Caroline Harris,caroline.harris.distributor@gmail.com,4528148399,United States,Washington,Olympia,735 Willow Dogwood,84924,55.7504461,37.6174943,SUP00100
+DIST00015,Caroline Harris,caroline.harris.distributor@gmail.com,4528148399,United States,Washington,Olympia,735 Willow Dogwood,84924,55.7504461,37.6174943,SUP00101
+DIST00015,Caroline Harris,caroline.harris.distributor@gmail.com,4528148399,United States,Washington,Olympia,735 Willow Dogwood,84924,55.7504461,37.6174943,SUP00102
+DIST00016,Alexa Jackson,alexa.jackson.distributor@gmail.com,2797152019,United States,Pennsylvania,Harrisburg,877 Locust Main,90583,-32.9560939,-60.6348767,SUP00103
+DIST00016,Alexa Jackson,alexa.jackson.distributor@gmail.com,2797152019,United States,Pennsylvania,Harrisburg,877 Locust Main,90583,-32.9560939,-60.6348767,SUP00104
+DIST00016,Alexa Jackson,alexa.jackson.distributor@gmail.com,2797152019,United States,Pennsylvania,Harrisburg,877 Locust Main,90583,-32.9560939,-60.6348767,SUP00105
+DIST00016,Alexa Jackson,alexa.jackson.distributor@gmail.com,2797152019,United States,Pennsylvania,Harrisburg,877 Locust Main,90583,-32.9560939,-60.6348767,SUP00106
+DIST00016,Alexa Jackson,alexa.jackson.distributor@gmail.com,2797152019,United States,Pennsylvania,Harrisburg,877 Locust Main,90583,-32.9560939,-60.6348767,SUP00107
+DIST00017,Hannah Caldwell,hannah.caldwell.distributor@gmail.com,8633406084,United States,New Jersey,Atlantic city,391 Elm Mulberry,95271,59.3505194,18.0434894,SUP00108
+DIST00017,Hannah Caldwell,hannah.caldwell.distributor@gmail.com,8633406084,United States,New Jersey,Atlantic city,391 Elm Mulberry,95271,59.3505194,18.0434894,SUP00109
+DIST00017,Hannah Caldwell,hannah.caldwell.distributor@gmail.com,8633406084,United States,New Jersey,Atlantic city,391 Elm Mulberry,95271,59.3505194,18.0434894,SUP00110
+DIST00017,Hannah Caldwell,hannah.caldwell.distributor@gmail.com,8633406084,United States,New Jersey,Atlantic city,391 Elm Mulberry,95271,59.3505194,18.0434894,SUP00111
+DIST00017,Hannah Caldwell,hannah.caldwell.distributor@gmail.com,8633406084,United States,New Jersey,Atlantic city,391 Elm Mulberry,95271,59.3505194,18.0434894,SUP00112
+DIST00017,Hannah Caldwell,hannah.caldwell.distributor@gmail.com,8633406084,United States,New Jersey,Atlantic city,391 Elm Mulberry,95271,59.3505194,18.0434894,SUP00113
+DIST00017,Hannah Caldwell,hannah.caldwell.distributor@gmail.com,8633406084,United States,New Jersey,Atlantic city,391 Elm Mulberry,95271,59.3505194,18.0434894,SUP00114
+DIST00017,Hannah Caldwell,hannah.caldwell.distributor@gmail.com,8633406084,United States,New Jersey,Atlantic city,391 Elm Mulberry,95271,59.3505194,18.0434894,SUP00115
+DIST00017,Hannah Caldwell,hannah.caldwell.distributor@gmail.com,8633406084,United States,New Jersey,Atlantic city,391 Elm Mulberry,95271,59.3505194,18.0434894,SUP00116
+DIST00018,Henry Joseph,henry.joseph.distributor@gmail.com,9649941309,United States,Michigan,Detroit,577 Walnut Mulberry,31050,-41.3252937,174.7872813,SUP00117
+DIST00018,Henry Joseph,henry.joseph.distributor@gmail.com,9649941309,United States,Michigan,Detroit,577 Walnut Mulberry,31050,-41.3252937,174.7872813,SUP00118
+DIST00018,Henry Joseph,henry.joseph.distributor@gmail.com,9649941309,United States,Michigan,Detroit,577 Walnut Mulberry,31050,-41.3252937,174.7872813,SUP00119
+DIST00018,Henry Joseph,henry.joseph.distributor@gmail.com,9649941309,United States,Michigan,Detroit,577 Walnut Mulberry,31050,-41.3252937,174.7872813,SUP00120
+DIST00018,Henry Joseph,henry.joseph.distributor@gmail.com,9649941309,United States,Michigan,Detroit,577 Walnut Mulberry,31050,-41.3252937,174.7872813,SUP00121
+DIST00018,Henry Joseph,henry.joseph.distributor@gmail.com,9649941309,United States,Michigan,Detroit,577 Walnut Mulberry,31050,-41.3252937,174.7872813,SUP00122
+DIST00018,Henry Joseph,henry.joseph.distributor@gmail.com,9649941309,United States,Michigan,Detroit,577 Walnut Mulberry,31050,-41.3252937,174.7872813,SUP00123
+DIST00018,Henry Joseph,henry.joseph.distributor@gmail.com,9649941309,United States,Michigan,Detroit,577 Walnut Mulberry,31050,-41.3252937,174.7872813,SUP00124
+DIST00018,Henry Joseph,henry.joseph.distributor@gmail.com,9649941309,United States,Michigan,Detroit,577 Walnut Mulberry,31050,-41.3252937,174.7872813,SUP00125
+DIST00019,Robert Cross,robert.cross.distributor@gmail.com,7638718024,United States,Tennessee,Memphis,736 Vine Yew,61443,30.0443879,31.2357257,SUP00126
+DIST00019,Robert Cross,robert.cross.distributor@gmail.com,7638718024,United States,Tennessee,Memphis,736 Vine Yew,61443,30.0443879,31.2357257,SUP00127
